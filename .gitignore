@@ -3,7 +3,7 @@
 
 # Cargo.lock should be committed for binaries, ignored for libraries
 # Since you're building a shell (binary), keep Cargo.lock
-# Cargo.lock
+Cargo.lock
 
 # IDE/Editor files
 .vscode/
