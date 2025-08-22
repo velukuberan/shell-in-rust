@@ -19,8 +19,6 @@ fn main() {
 
         let command = parts[0];
 
-        match command {
-            _ => println!("{}: command not found", command),
-        }
+        println!("{}: command not found", command);
     }
 }
