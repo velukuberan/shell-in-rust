@@ -7,7 +7,7 @@ This project is mainly for learning purposes — exploring command parsing, REPL
 
 * **REPL (Read-Eval-Print Loop)**
 * **Command parsing** → split user input into command + arguments
-* **Built-in commands** → e.g., `cd`, `exit`, `help`
+* **Built-in commands** → e.g., `exit`, `help`
 * **Execute external commands** → run system programs like `ls`, `echo`, `pwd`
 * **Error handling** → basic handling of invalid commands
 
